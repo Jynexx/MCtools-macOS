@@ -1,0 +1,1 @@
+This section seems to typically apply to CurseForge users, but will work for anyone using other launchers running into this exact same issue.
